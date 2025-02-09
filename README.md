@@ -10,4 +10,4 @@ I also have some degree of experience in machine learning, especially reinforcem
 I've put off using GitHub for years, so this page is currently a blank slate.
 
 
-[![Programming Languages](https://skillicons.dev/icons?i=fortran,nodejs,python,c,matlab,sklearn,pytorch)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=fortran,nodejs,python,c,matlab,sklearn,pytorch&theme=light)](https://skillicons.dev)
